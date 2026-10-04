@@ -54,3 +54,16 @@ footer {
   border-top: 2px solid #2a7f62;
   color: #666;
 }
+@media (max-width: 500px) {
+  body {
+    padding: 12px;
+  }
+
+  header {
+    padding: 24px 12px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+}
