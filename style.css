@@ -33,3 +33,17 @@ header {
   text-decoration: none;
   margin-top: 12px;
 }
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.service {
+  flex: 1 1 200px;
+  background-color: #e6f4ef;
+  border: 2px solid #2a7f62;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
