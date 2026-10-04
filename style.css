@@ -18,3 +18,18 @@ h2 {
   border-bottom: 2px solid #2a7f62;
   padding-bottom: 4px;
 }
+header {
+  background-color: #e6f4ef;
+  text-align: center;
+  padding: 40px 20px;
+  border-radius: 8px;
+}
+.button {
+  display: inline-block;
+  background-color: #2a7f62;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-top: 12px;
+}
